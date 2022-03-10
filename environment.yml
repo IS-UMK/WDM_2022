@@ -1,10 +1,8 @@
-name: rise-environment
-channels:
-  - conda-forge
+name: wdm-environment
 dependencies:
-  - python
+  - rise
+  - scikit-learn
+  - seaborn
   - numpy
   - matplotlib
   - pandas
-  - bokeh
-  - rise
