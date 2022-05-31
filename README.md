@@ -1,4 +1,4 @@
-# Wstęp do Data Mining 
+# Wstęp do Data Mining
 
 Materiały na laboratoium Wstęp do Data Mining
 
